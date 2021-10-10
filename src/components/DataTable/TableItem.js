@@ -28,9 +28,10 @@ const TableItem = ({ item }) => {
   };
   return (
     <Tr
+      color="white"
       _hover={{
         bg: "blue.700",
-        color: "white",
+
         cursor: "pointer",
       }}
       onClick={handelSelect}
