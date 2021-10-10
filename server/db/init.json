@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1633787940125,
+    "status": { "treated": null, "created": "Thu, 10 Oct 2021 21:45:44 GMT" },
+    "recipientList": ["ilya@gmail.com", "elya@gmail.com"],
+    "email": {
+      "header": "Invitation: Guesty: Intro Call",
+      "title": "Thanks so much for scheduling a time for us to chat. Please find the details below:",
+      "subTitle": "Representative: Arielle Macias will call you on your number provided. /n Want to speed things along? /n Please fill out the following form so that I can be more informed for our call:  https://guestymarketing.typeform.com/to/hHI09gra?email=yourEmail@gmail.com /n We'll speak then!  Best,/n  Arielle"
+    },
+    "recurrence": { "days": ["SUN", "THU"], "granularity": 60 },
+    "timezone": "Thu, 10 Oct 2021 21:45:44 GMT"
+  },
+  {
+    "id": 1633787960125,
+    "status": { "treated": null, "created": "Thu, 09 Oct 2021 21:45:44 GMT" },
+    "recipientList": ["ilya@gmail.com", "elya@gmail.com"],
+    "email": {
+      "header": "Invitation: Guesty: Intro Call",
+      "title": "Thanks so much for scheduling a time for us to chat. Please find the details below:",
+      "subTitle": "Representative: Arielle Macias will call you on your number provided. /n Want to speed things along? /n Please fill out the following form so that I can be more informed for our call:  https://guestymarketing.typeform.com/to/hHI09gra?email=yourEmail@gmail.com /n We'll speak then!  Best,/n  Arielle"
+    },
+    "recurrence": { "days": ["WED", "THU", "FRI"], "granularity": 60 },
+    "timezone": "Thu, 10 Oct 2021 21:45:44 GMT"
+  },
+  {
+    "id": 1633787980125,
+    "status": { "treated": null, "date": "Thu, 10 Oct 2021 21:45:44 GMT" },
+    "recipientList": ["ilya@gmail.com", "elya@gmail.com"],
+    "email": {
+      "header": "Invitation: Guesty: Intro Call",
+      "title": "Thanks so much for scheduling a time for us to chat. Please find the details below:",
+      "subTitle": "Representative: Arielle Macias will call you on your number provided. /n Want to speed things along? /n Please fill out the following form so that I can be more informed for our call:  https://guestymarketing.typeform.com/to/hHI09gra?email=yourEmail@gmail.com /n We'll speak then!  Best,/n  Arielle"
+    },
+    "recurrence": { "days": ["TUE", "WED", "THU", "FRI", "SAT", "SUN"], "granularity": 60 },
+    "timezone": "Thu, 10 Oct 2021 21:45:44 GMT"
+  },
+  {
+    "id": 1633788980125,
+    "status": { "treated": null, "date": "Thu, 10 Oct 2021 21:45:44 GMT" },
+    "recipientList": ["ilya@gmail.com", "elya@gmail.com"],
+    "email": {
+      "header": "Invitation: Guesty: Intro Call",
+      "title": "Thanks so much for scheduling a time for us to chat. Please find the details below:",
+      "subTitle": "Representative: Arielle Macias will call you on your number provided. /n Want to speed things along? /n Please fill out the following form so that I can be more informed for our call:  https://guestymarketing.typeform.com/to/hHI09gra?email=yourEmail@gmail.com /n We'll speak then!  Best,/n  Arielle"
+    },
+    "recurrence": { "days": ["TUE", "WED", "THU", "FRI", "SAT"], "granularity": 60 },
+    "timezone": "Thu, 10 Oct 2021 22:45:44 GMT"
+  }
+]
