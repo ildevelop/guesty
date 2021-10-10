@@ -7,7 +7,7 @@ function App() {
   return (
     <Box>
       <Header />
-      <Box m="20px" borderRadius="10px" border="black 1px solid">
+      <Box m="20px" bg="blue.900" borderRadius="10px" border="black 1px solid">
         <DataTable />
       </Box>
     </Box>

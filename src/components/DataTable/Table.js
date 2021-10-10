@@ -19,7 +19,7 @@ const DataTable = () => {
 
   return (
     <>
-      <Table variant="simple">
+      <Table variant="simple" bg="facebook.900">
         <TableCaption>
           <Button leftIcon={<ArrowBackIcon />} onClick={() => dispatch(reset())} colorScheme="teal" variant="outline">
             Reset
@@ -36,12 +36,12 @@ const DataTable = () => {
         </TableCaption>
         <Thead>
           <Tr bg="blue.700">
-            <Th>Select</Th>
-            <Th>Recurrence</Th>
-            <Th>Granularity</Th>
-            <Th>Created</Th>
-            <Th>Message</Th>
-            <Th>Treated</Th>
+            <Th color="white">Select</Th>
+            <Th color="white">Recurrence</Th>
+            <Th color="white">Granularity</Th>
+            <Th color="white">Created</Th>
+            <Th color="white">Message</Th>
+            <Th color="white">Treated</Th>
           </Tr>
         </Thead>
         <Tbody>
